@@ -51,7 +51,21 @@ textarea{
     color: rgb(163, 4, 163);
 }
 
-
+  
+.past {
+    background-color: #d3d3d3;
+    color:black;
+  }
+  
+  .present {
+    background-color: purple;
+    color:black;
+  }
+  
+  .future {
+    background-color: yellow;
+    color: black;
+  }
 
 .saveBtn i:hover{
     cursor: pointer;
