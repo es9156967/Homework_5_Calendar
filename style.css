@@ -7,7 +7,7 @@ body{
 
 .container{
     height:100px;
-    padding: 5px;
+    padding: 2px;
 }
 
 textarea{
@@ -24,11 +24,14 @@ textarea{
 }
 
 .jumbotron{
+    color: yellow;
     text-align: center;
     font-weight: bolder;
-    background-color: rgb(163, 4, 163) ;
     border-radius: 0;
     border-bottom: 15px solid yellow;
+    background-image: url(/assets/Kobe.jpg);
+    background-position: center top;
+    background-size: 100% auto;
 }
 
 .time-block{
@@ -40,6 +43,7 @@ textarea{
     white-space: pre-wrap;
     height: 90px;
     border-top: 1px solid rgb(255, 255, 255);
+    margin-left: 15px;
 }
 
 /* //save button// */
@@ -53,12 +57,12 @@ textarea{
 
   
 .past {
-    background-color: #d3d3d3;
+    background-color: lightgoldenrodyellow;
     color:black;
   }
   
   .present {
-    background-color: purple;
+    background-color: rgb(204, 134, 204);
     color:black;
   }
   

@@ -40,8 +40,8 @@ $(window).on("load", function () {
     }
 
     renderAppointments();
-
-    for (i = 0; i <= 24; i++) {
+    //used 24 for hours of the day, and for kobe (don't how it worked)//
+    for (i = 0; i <= 24; i++) { 
         CurrentContainer = i;
         if (currentTime == i) {
             $('#' + CurrentContainer).addClass("present");
