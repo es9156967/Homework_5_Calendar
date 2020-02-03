@@ -29,9 +29,12 @@ textarea{
     font-weight: bolder;
     border-radius: 0;
     border-bottom: 15px solid yellow;
-    background-image: url(/assets/Kobe.jpg);
-    background-position: center top;
-    background-size: 100% auto;
+    background-image: url(./assets/Kobe.jpg);
+}
+
+
+header.jumbotron{
+    background-image: url(./assets/Kobe.jpg);
 }
 
 .time-block{

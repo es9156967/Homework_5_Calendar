@@ -12,4 +12,8 @@ Your event details are saved to the local storage on your device. Give it a try!
 
 
 
+Light Purple is the current date 
+
+Light Yellow is the past date
+
 
